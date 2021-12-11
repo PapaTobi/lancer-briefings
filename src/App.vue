@@ -117,6 +117,14 @@ export default {
           "mech": "Kanaloa"
         },
         {
+          "callsign": "Jarl",
+          "alias": "Derrick Othel",
+          "code": "fa318f0b-4033-4443-93be-b9fbb154127a//1f22fb25-0334-4105-823c-c9890697e63f",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Vulture"
+        },
+        {
           "callsign": "Wiglaf",
           "alias": "Vaggur Jorgensen",
           "code": "c681b44e-a900-4b5b-a979-69aa0f05524f//63ec3413-d1fb-482d-82f3-4240a9a2bd20",
