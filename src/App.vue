@@ -147,10 +147,10 @@ export default {
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
+        "headerTitle": "Starspear",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "Sierra-Mike-Charlie",
       },
       "options":{
         "eventsMarkdownPerMission": true
