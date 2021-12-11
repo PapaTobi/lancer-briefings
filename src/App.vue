@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "Alicanto",
           "alias": "Principe Desremault-Americ of the House of Blades",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "1a201c0f-5628-4e15-8db8-a698220c18a4//a1b59f43-bd8b-40e4-aff8-ce8e37b35e17",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Sudden Intervention"
