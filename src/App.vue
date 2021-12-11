@@ -108,6 +108,14 @@ export default {
           "frame": "Everest",
           "mech": "Sudden Intervention"
         },
+        {
+          "callsign": "Wiglaf",
+          "alias": "Vaggur Jorgensen",
+          "code": "c681b44e-a900-4b5b-a979-69aa0f05524f//63ec3413-d1fb-482d-82f3-4240a9a2bd20",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Yggdrasil"
+        },
       ],
       "header": {
         "planet": "Hercynia",
