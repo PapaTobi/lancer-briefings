@@ -94,7 +94,7 @@ export default {
       "events": "",
       "missions": [
         {
-          "slug": "initial tasking packet",
+          "slug": "itp",
           "name": "hercynia distress signal",
           "status": "start"
         },
