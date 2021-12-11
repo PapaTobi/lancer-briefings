@@ -1,7 +1,7 @@
 <template>
   <header class="clipped-x-large-forward">
     <div class="title clipped-x-large-forward">
-      <img class="logo" src="/icons/starspear-insignia.png" contain />
+      <img class="logo" src="/icons/starspear-insignia.png" contain width="60px" height="60px" />
       <div class="title-container">
         <div class="title-row" id="title-first-line">
           <span id="title-header">{{ header.headerTitle }}</span>
