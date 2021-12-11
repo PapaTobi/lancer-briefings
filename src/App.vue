@@ -89,13 +89,13 @@ export default {
 
   data() {
     return {
-      "mission_slug": "landfall",
+      "mission_slug": "itp",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "landfall",
-          "name": "hercynia distress signal",
+          "slug": "itp",
+          "name": "Landfall",
           "status": "start"
         },
       ],
