@@ -1,5 +1,5 @@
-# Initial Tasking Packet
-## Hercynia Distress Signal
+# Hercynia Distress Signal
+## Initial Tasking Packet
 # Union Intelligence
 - Distress call received 2 Standard Months ago from **EVERGREEN**, a colony on the planet **HERCYNIA** in the **ATLAS** line, seeking aid against unidentified aggressors.
 - **EVERGREEN** is under the administration of **LANDMARK COLONIAL**, a minor subsidiary corporation of **SMITH-SHIMANO CORPRO.** First objective is to make contact with local **LC** Representative and integrate into the local hierarchy.
