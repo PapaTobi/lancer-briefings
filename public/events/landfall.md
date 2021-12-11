@@ -1,2 +1,2 @@
-# Blinkship Gibraltar // 2.21.5014u
-The squad finally met each other en-route to the recently-rediscovered planetoid known as **HERCYNIA**. Guided by MSMC Commanding Officer **SNAKEMAN**, Squad **DELTA-ECHO-ECHO-ZULU** was given a rudimentary team-building exercise known as Virtual Training. 
+# Light Carrier Gibraltar // 2.21.5014u
+After a month-long trip, the **GIBRALTAR** has ferried the members of **STARSPEAR MERCENARY COMPANY** from the nearest public blinkship to the confines of the **ARDENNES-3** system. They received a transmission from **UNION** containing some information on **HERCYNIA**, the colony of **EVERGREEN**, and the distress call that the company has chosen to answer.
