@@ -109,6 +109,14 @@ export default {
           "mech": "Sudden Intervention"
         },
         {
+          "callsign": "Carrion",
+          "alias": "Chester Adrias",
+          "code": "4d4eaf6a-f7c2-4022-a6a0-5919842713f0//0ee5c210-c102-4bcc-bb25-6daf9ddba552",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Kanaloa"
+        },
+        {
           "callsign": "Wiglaf",
           "alias": "Vaggur Jorgensen",
           "code": "c681b44e-a900-4b5b-a979-69aa0f05524f//63ec3413-d1fb-482d-82f3-4240a9a2bd20",
