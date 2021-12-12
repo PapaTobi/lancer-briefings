@@ -1,1 +1,1 @@
-## DOSSIER NOT FOUND
+A former white-hat systems designer, Chester learned to embrace the wonders of technology. He started a small business named Phlanx-Regia, producing components for mech modules to assist in resisting electronic interference. But he quickly grew tired of this. He wanted to be there, in the action. Able to help, not just sitting behind his monitor, watching. While his skills with weapons aren't amazing, his skills with machines- More specifically, their code, was tremendous.
