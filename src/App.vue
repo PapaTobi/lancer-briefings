@@ -109,6 +109,14 @@ export default {
           "mech": "Sudden Intervention"
         },
         {
+          "callsign": "Behemoth",
+          "alias": "Rhaegar Barronox",
+          "code": "2697cd8a-54ae-4498-b390-db1215f02502//32843f37-cdd5-4483-8bef-afd909c211fb",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Atreska's Wrath"
+        },
+        {
           "callsign": "Carrion",
           "alias": "Chester Adrias",
           "code": "4d4eaf6a-f7c2-4022-a6a0-5919842713f0//0ee5c210-c102-4bcc-bb25-6daf9ddba552",
