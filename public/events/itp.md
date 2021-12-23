@@ -1,4 +1,4 @@
-# Light Carrier Gibraltar // 3.21.5014u
+# Light Carrier Gibraltar // Early Spring, 5014u
 After a month-long trip, the **GIBRALTAR** has ferried the members of **STARSPEAR MERCENARY COMPANY** from the nearest public blinkship to the confines of the **ARDENNES-3** system. They received a transmission from **UNION** containing some information on **HERCYNIA**, the colony of **EVERGREEN**, and the distress call that the company has chosen to answer.
 
 While in transit towards the world, the group accepted an offer from the **GIBRALTAR'S** captain to warm up in a virtual training scenario. They packed up and were sent to land by the colony of **EVERGREEN** via autoshuttle shortly afterwards.
