@@ -118,7 +118,7 @@ export default {
           "alias": "Rhaegar Barronox",
           "code": "2697cd8a-54ae-4498-b390-db1215f02502//32843f37-cdd5-4483-8bef-afd909c211fb",
           "corpro": "GMS",
-          "frame": "Everest",
+          "frame": "Sagarmatha",
           "mech": "Atreska's Wrath"
         },
         {
