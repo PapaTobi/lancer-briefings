@@ -116,7 +116,7 @@ export default {
           "code": "1a201c0f-5628-4e15-8db8-a698220c18a4//a1b59f43-bd8b-40e4-aff8-ce8e37b35e17",
           "corpro": "IPS-N",
           "frame": "Nelson",
-          "mech": "Sudden Intervention"
+          "mech": "Sudden Intervention MkII"
         },
         {
           "callsign": "Behemoth",
@@ -130,17 +130,17 @@ export default {
           "callsign": "Carrion",
           "alias": "Chester Adrias",
           "code": "4d4eaf6a-f7c2-4022-a6a0-5919842713f0//0ee5c210-c102-4bcc-bb25-6daf9ddba552",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Kanaloa"
+          "corpro": "RKF",
+          "frame": "Calendula",
+          "mech": "Maze-Bearer"
         },
         {
           "callsign": "Jarl",
           "alias": "Derrick Othel",
           "code": "fa318f0b-4033-4443-93be-b9fbb154127a//1f22fb25-0334-4105-823c-c9890697e63f",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Vulture"
+          "corpro": "HA",
+          "frame": "Sherman",
+          "mech": "Mayhem"
         },
         {
           "callsign": "Wiglaf",
@@ -148,7 +148,7 @@ export default {
           "code": "c681b44e-a900-4b5b-a979-69aa0f05524f//63ec3413-d1fb-482d-82f3-4240a9a2bd20",
           "corpro": "IPS-N",
           "frame": "Blackbeard",
-          "mech": "Yggdrasil"
+          "mech": "Váli"
         },
       ],
       "header": {
