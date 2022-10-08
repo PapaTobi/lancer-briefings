@@ -114,8 +114,8 @@ export default {
           "callsign": "Alicanto",
           "alias": "Principe Desremault-Americ of the House of Blades",
           "code": "1a201c0f-5628-4e15-8db8-a698220c18a4//a1b59f43-bd8b-40e4-aff8-ce8e37b35e17",
-          "corpro": "GMS",
-          "frame": "Everest",
+          "corpro": "IPS-N",
+          "frame": "Nelson",
           "mech": "Sudden Intervention"
         },
         {
@@ -146,8 +146,8 @@ export default {
           "callsign": "Wiglaf",
           "alias": "Vaggur Jorgensen",
           "code": "c681b44e-a900-4b5b-a979-69aa0f05524f//63ec3413-d1fb-482d-82f3-4240a9a2bd20",
-          "corpro": "GMS",
-          "frame": "Everest",
+          "corpro": "IPS-N",
+          "frame": "Blackbeard",
           "mech": "Yggdrasil"
         },
       ],
